@@ -1,0 +1,29 @@
+.header{
+    background: rgb(46, 57, 65);
+    padding-left: 200px;
+    padding-right: 200px;
+    color: white;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#top-half{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo{
+    font-weight: 700;
+}
+
+ul{
+    display: flex;
+    list-style-type: none;
+    gap: 20px;
+    justify-content: space-between;
+}
+
+.title{
+    font-size: 30px;
+    font-weight: 900;
+}
